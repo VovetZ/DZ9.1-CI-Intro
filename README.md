@@ -28,6 +28,15 @@
 
 Если всё отработало в рамках ожидания - выгрузить схемы workflow для импорта в XML. Файлы с workflow приложить к решению задания.
 
+
+#### Ответ
+
+![Bug Workflow](./bug.jpg)
+[Bug Workflow](./bug.xml)
+
+![Other Workflow](./other.jpg)
+[Other Workflow](./other.xml)
+
 ---
 
 ### Как оформить ДЗ?
